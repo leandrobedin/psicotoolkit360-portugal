@@ -85,7 +85,7 @@ const Offer: React.FC = () => {
             
             <div className="text-center mb-8">
               <a 
-                href="https://pay.hotmart.com/A100472691G?off=04jepmee&checkoutMode=10"
+                href="https://pay.hotmart.com/M100485235A?checkoutMode=10"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-[#386641] hover:bg-[#2d5235] text-white text-lg md:text-xl font-bold py-6 px-8 rounded-lg shadow-lg w-full max-w-lg transform hover:scale-105 transition-all duration-300 uppercase"
